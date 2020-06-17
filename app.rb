@@ -1,7 +1,7 @@
 class App < Sinatra::Base
 
 	get '/' do
-		erb :index
+		"Did you know a clown pussy is called a clussy?????"
 	end
 
 	get '/hello' do
